@@ -96,12 +96,12 @@ document.addEventListener("DOMContentLoaded", () => {
         "No es solo una carrera, es una aventura humana. No me siento llevado, me siento incluido.",
         "L'affiche représentative du sport":
         "El cartel representativo del deporte",
-        "Première participation au Championnat du monde de Joëlette":
-        "Primera participación en el Campeonato del Mundo de Joëlette",
-        "Deuxième participation, groupe élargi":
-        "Segunda participación, grupo ampliado",
-        "Création officielle de l'association Cœur de Coureurs et participation prévue au championnat":
-        "Creación oficial de la asociación Cœur de Coureurs y participación prevista en el campeonato"
+        "2024 : Première participation au Championnat du monde de Joëlette":
+        "2024 : Primera participación en el Campeonato del Mundo de Joëlette",
+        "2025 : Deuxième participation, groupe élargi":
+        "2025 : Segunda participación, grupo ampliado",
+        "2026 : Création officielle de l'association Cœur de Coureurs et participation prévue au championnat":
+        "2026 : Creación oficial de la asociación Cœur de Coureurs y participación prevista en el campeonato"
 
     };
 
