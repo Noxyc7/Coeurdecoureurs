@@ -126,8 +126,8 @@ document.addEventListener("DOMContentLoaded", () => {
     // =========================
     const audioPlayer = document.getElementById('audio-player');
     const audioSource = document.getElementById('audio-source');
-    const audioFR = 'audio_fr.mp3';
-    const audioES = 'audio_es.mp3';
+    const audioFR = 'audio_fr.m4a';
+    const audioES = 'audio_es.m4a';
 
    // =========================
     // CHARGER LANGUE ET IMAGE/AUDIO SAUVEGARDÉES
